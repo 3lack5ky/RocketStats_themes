@@ -3,11 +3,11 @@
 	"version":		"v1.0.1",
 	"date":			"04/02/2025",
 	"x":			"50vw",
-	"y":			"0",
+	"y":			0,
 	"width":		"287px",
 	"height":		"127px",
 	"fonts":		[ [ "Numbers.ttf", 25 ], [ "Letters.ttf" , 12 ] ],
-	"scale":		"1.0",
+	"scale":		"0.9",
 	"opacity":		0.8,
 	"elements": [
 		{
